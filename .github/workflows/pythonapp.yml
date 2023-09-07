@@ -1,4 +1,4 @@
-name: Test workflow for Python template
+name: Workflow for Week 2 Mini Project
 on: [push]
 jobs:
   build:
