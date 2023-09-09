@@ -1,3 +1,7 @@
-### This is a descriptive statistics python project which automates testing with pylint and nbval, lints with Ruff, formats with black.
-
-This is an edit that will test the workflow on the mini project with actions extension, altered action settings
+## This is a workflow for a python script which performs descriptive statistics on a csv file
+### This project has the following dependencies:
+* ruff linter
+* pytest
+* pandas
+* (nbval is included in requirements for future implementation)
+### This project uses a csv file located in the src directory called data.cvs to test functionality. Any .csv file can be inserted into the script or the jupyter notebook 
